@@ -1,0 +1,21 @@
+body {
+  font-family: Tahoma, "Times New Roman", sans-serif;
+}
+
+h1 {
+  background-color: pink;
+}
+
+h2 {
+  background-color: rgb(43, 255, 255);
+}
+
+li {
+  color: red;
+  background-color: greenyellow;
+}
+
+img {
+  height: auto;
+  width: 350px;
+}
